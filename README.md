@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flutter Notes App
 
 Aplikasi catatan sederhana built dengan Flutter dan Dart.
@@ -11,8 +11,7 @@ Aplikasi catatan sederhana built dengan Flutter dan Dart.
 - ✅ Responsive UI
 
 ## 👥 Anggota Kelompok
-- RIZQI CAHYA MAULIDA - UI Layer & Presentasi
-- SILVIA PUTRI ANGGRAINI - State Management & Business Logic
+- OKTAVIA PUTRI BUDIANSYAH - UI Layer & Presentasi, State Management & Business Logic
 
 ## 🛠️ Teknologi
 - Flutter 3.x
@@ -44,6 +43,3 @@ lib/
 └── widgets/
     └── note_card.dart
 ```
-=======
-# notes-app-flutter
->>>>>>> 9d462a327b0096df6a4d6125ddde2de970e9811c
